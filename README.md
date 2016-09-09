@@ -30,6 +30,12 @@ jQuery(function() {
 ```
 
 ## Browser name list
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 | No | Name        | Browser  |
 | -  | ----------- | -------- |
 | 1  | Explorer    | Internet Explorer |
