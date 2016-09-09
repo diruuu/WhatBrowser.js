@@ -31,16 +31,11 @@ jQuery(function() {
 
 ## Browser name list
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-| No | Name        | Browser  |
-| -  | ----------- | -------- |
-| 1  | Explorer    | Internet Explorer |
-| 2  | MS Edge     | Microsoft Edge |
-| 3  | Firefox     | Mozilla Firefox |
-| 3  | Opera       | Opera Browser |
-| 3  | Chrome      | Google Chrome |
-| 3  | Safari      | Safari |
+No | Name | Browser
+--- | ---| ---
+1  | Explorer| Internet Explorer
+2  | MS Edge | Microsoft Edge
+3  | Firefox | Mozilla Firefox
+4  | Opera | Opera Browser
+5  | Chrome | Google Chrome
+6  | Safari | Safari
