@@ -15,7 +15,7 @@ whatBrowser(function(browser){
 
   // Do what you want with that information here
 });
-``
+```
 
 Check if browser is Internet Explorer 9 or below and add class to body with jQuery:
 ```javascript
