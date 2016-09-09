@@ -28,3 +28,13 @@ jQuery(function() {
   });
 });
 ```
+
+## Browser name list
+| No | Name        | Browser  |
+| -  | ----------- | -------- |
+| 1  | Explorer    | Internet Explorer |
+| 2  | MS Edge     | Microsoft Edge |
+| 3  | Firefox     | Mozilla Firefox |
+| 3  | Opera       | Opera Browser |
+| 3  | Chrome      | Google Chrome |
+| 3  | Safari      | Safari |
